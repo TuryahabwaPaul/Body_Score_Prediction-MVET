@@ -1,10 +1,10 @@
-Here's the updated README draft with your specified changes:
+
 
 ---
 
 # 🌟 **Body Score Prediction - Team VisionOps** 🌟
 
-Welcome to **Body Score Prediction**, a project by **Team VisionOps** developed for the **M-VET Hackathon**, organized by **Makerere AI Lab**. This project leverages advanced machine learning techniques to accurately predict body scores from image data.
+Welcome to **Body Score Prediction**, a project by **Team VisionOps** developed for the **M-VET Hackathon**, organized by **Makerere AI Lab** which won Second Place. This project leverages advanced machine learning techniques to accurately predict body scores from dataset from Lacuna Fund.
 
 ## 🚀 **Project Overview**
 This project focuses on developing a predictive model for body scoring using a deep learning approach. Utilizing **EfficientNetB0**, we aim to deliver precise predictions while ensuring computational efficiency.
@@ -45,5 +45,3 @@ This project focuses on developing a predictive model for body scoring using a d
 
 
 ---
-
-Feel free to ask for any further tweaks!
